@@ -1,4 +1,4 @@
-18717504293374021
+18722234056483959
 Alps_Only
 ALPS-1.5U
 
@@ -82222,14 +82222,28 @@ varistor SIOV
 2
 2
 custom_parts
-m0116_qr
+Fuse_Littelfuse_395Series
+Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,
+Fuse TE5 Littelfuse/Wickmann No. 460 No560 
+0
+2
+2
+custom_parts
+alps_skcc
+
+
+0
+2
+2
+custom_parts
+apple_x_elmo
 
 
 0
 0
 0
 custom_parts
-old_pcb
+hex_plane
 
 
 0
@@ -82265,6 +82279,13 @@ qmk
 0
 custom_parts
 qmk_copper
+
+
+0
+0
+0
+custom_parts
+qr
 
 
 0
