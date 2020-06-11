@@ -1,4 +1,4 @@
-# m0116_qmk
+# m0116_usb
 ##### QMK compatible drop-in replacement PCB for the Apple M0116
 The PCB is built entirely with THT parts to keep a somewhat "vintage" look to it and it uses the fullsize 40-pin DIP package ATmega32A.
 The controller is placed in the exact same location as the one on the original PCB meaning that it can be accessed through the plate cutout under the spacebar.
@@ -24,6 +24,7 @@ The controller is placed in the exact same location as the one on the original P
  |81|universal switching diode (DO-35 1N4148)|
  
 
-### This is not yet tested and still work in progress!
-![pcb_render_front](https://i.imgur.com/2WhnPk5.png)
-![pcb_render_back](https://i.imgur.com/KtcJzEa.png)
+#### Some pictures of the first finished PCB
+[![](https://i.imgur.com/0l0W3oYm.jpg)](https://i.imgur.com/0l0W3oY.jpg) [![](https://i.imgur.com/iAKeK4cm.jpg)](https://i.imgur.com/iAKeK4c.jpg)
+[![](https://i.imgur.com/Zk1t3iOm.jpg)](https://i.imgur.com/Zk1t3iO.jpg) [![](https://i.imgur.com/qjwVC6qm.jpg)](https://i.imgur.com/qjwVC6q.jpg)
+[![](https://i.imgur.com/mmxlIqLm.jpg)](https://i.imgur.com/mmxlIqL.jpg) [![](https://i.imgur.com/rhK3iEWm.jpg)](https://i.imgur.com/rhK3iEW.jpg)
