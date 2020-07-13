@@ -2802,9 +2802,9 @@ Text GLabel 1100 4300 0    50   Input ~ 0
 row4
 Text GLabel 2150 4950 1    50   Input ~ 0
 row0
-Text GLabel 1150 4950 1    50   Input ~ 0
-row1
 Text GLabel 2250 4950 1    50   Input ~ 0
+row1
+Text GLabel 1150 4950 1    50   Input ~ 0
 row2
 Text GLabel 1350 4950 1    50   Input ~ 0
 row3

@@ -2661,7 +2661,7 @@ U 1 1 5F793D16
 P 7200 5000
 F 0 "J3" H 7280 4992 50  0000 L CNN
 F 1 "Conn_01x04" H 7280 4901 50  0000 L CNN
-F 2 "Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal" H 7200 5000 50  0001 C CNN
+F 2 "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal" H 7200 5000 50  0001 C CNN
 F 3 "~" H 7200 5000 50  0001 C CNN
 	1    7200 5000
 	-1   0    0    -1  
@@ -2800,11 +2800,11 @@ Text GLabel 1100 3550 0    50   Input ~ 0
 row3
 Text GLabel 1100 4300 0    50   Input ~ 0
 row4
-Text GLabel 2150 4950 1    50   Input ~ 0
+Text GLabel 2250 4950 1    50   Input ~ 0
 row0
 Text GLabel 1150 4950 1    50   Input ~ 0
 row1
-Text GLabel 2250 4950 1    50   Input ~ 0
+Text GLabel 2150 4950 1    50   Input ~ 0
 row2
 Text GLabel 1350 4950 1    50   Input ~ 0
 row3
