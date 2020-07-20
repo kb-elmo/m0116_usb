@@ -9179,7 +9179,7 @@
   (gr_arc (start 353.06 78.486) (end 354.33 78.486) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 354.33 89.662) (end 354.33 78.486) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 355.6 89.662) (end 354.33 89.662) (angle -90) (layer Edge.Cuts) (width 0.05))
-  (gr_text "M0116 USB PCB rev1" (at 154.305 167.005) (layer B.SilkS) (tstamp 5EE0858C)
+  (gr_text "M0116 USB PCB rev2" (at 154.305 167.005) (layer B.SilkS) (tstamp 5EE0858C)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text nice (at 382.524 156.337) (layer F.SilkS)
